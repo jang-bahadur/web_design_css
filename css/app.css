@@ -228,6 +228,9 @@ footer {
     text-align: center;
     margin-right: 2rem;
   }
+  #newsletter {
+    padding: 0;
+  }
   #newsletter form input[type="email"] {
     margin-bottom: 0.5rem;
     display: block;
