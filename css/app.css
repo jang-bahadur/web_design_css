@@ -224,7 +224,7 @@ footer {
   #boxes .box,
   #about_us .paragraph {
     float: none;
-    width: 90%;
+    width: 100%;
     text-align: center;
     margin-right: 2rem;
   }
@@ -249,21 +249,21 @@ footer {
 
   .side {
     float: none;
-    width: 90%;
+    width: 100%;
   }
 
   .side input,
   textarea {
     float: none;
-    width: 80%;
+    width: 85%;
     text-align: left;
-    padding-right: 1rem;
+    /* padding-right: 1rem; */
     padding-top: 0.5rem;
   }
 
   .btn {
     float: none;
-    width: 85%;
+    width: 90%;
     text-align: center;
     padding-right: 1rem;
     padding-top: 0.5rem;
